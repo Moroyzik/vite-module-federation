@@ -19,5 +19,8 @@ This example demos a basic host application loading remote component.
 # Remote App
 ![image](https://github.com/user-attachments/assets/2cdf6110-be17-48f9-9a9e-92efbe6ea33b)
 
+# YouTube demo
+- [vite-module-federation](https://youtu.be/kEo_SxAiMpE)
+
 
 
